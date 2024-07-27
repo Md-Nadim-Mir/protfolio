@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="footer footer-center py-6  text-xl   font-bold text-white">
         <aside>
           <span className="animate-bounce">
-            Copyright © 2023 - All right reserved by Nadim.Protfolio
+            Copyright © 2024 - All right reserved by Nadim.Protfolio
           </span>
         </aside>
       </footer>

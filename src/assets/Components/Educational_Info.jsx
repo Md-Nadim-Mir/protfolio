@@ -2,7 +2,7 @@ import bsc from "../../../public/bsc.gif";
 import hsc from "../../../public/hsc.gif";
 import ssc from "../../../public/ssc.gif";
 import jsc from "../../../public/jsc.gif";
-import psc from "../../../public/psc.gif";
+// import psc from "../../../public/psc.gif";
 
 import { FaUniversity } from "react-icons/fa";
 import { FaBookOpen } from "react-icons/fa";
@@ -20,19 +20,19 @@ const Educational_Info = () => {
             <img className="w-full" src={bsc} alt="Shoes" />
           </figure>
           <div className="card-body bg-[#4D4944]">
-            <div className="card-title font-extrabold flex items-center gap-x-2">
-              <FaUniversity className="text-5xl font-bold "></FaUniversity>
-              <h1>Imperial College of Engineerring , Khulna</h1>
+            <div className="card-title text-[18px] font-extrabold flex items-center gap-x-5">
+            <FaUniversity className=" text-red-500 text-5xl font-bold"></FaUniversity>
+              <h1 className="text-white">Imperial College of Engineerring , Khulna</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
-              <FaBookOpen className="text-3xl font-bold "></FaBookOpen>
-              <h1>Computer Science & Engineering</h1>
+            <div className=" font-bold flex items-center gap-x-5">
+              <FaBookOpen className="text-3xl font-bold text-yellow-600"></FaBookOpen>
+              <h1 className="text-white">Computer Science & Engineering</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
+            <div className=" font-bold flex items-center gap-x-5">
               <FcAlarmClock className="text-3xl font-bold "></FcAlarmClock>
-              <h1>2019-Till</h1>
+              <h1 className="text-white">2019-Till</h1>
             </div>
           </div>
         </div>
@@ -42,19 +42,19 @@ const Educational_Info = () => {
             <img src={hsc} alt="Shoes" />
           </figure>
           <div className="card-body bg-[#4D4944]">
-            <div className="card-title font-extrabold flex items-center gap-x-2">
-              <FaUniversity className="text-5xl font-bold "></FaUniversity>
-              <h1>Tejdashkhati College , Pirojpur</h1>
+            <div className="card-title text-[18px] font-extrabold flex items-center gap-x-5">
+            <FaUniversity className=" text-red-500 text-4xl font-bold"></FaUniversity>
+              <h1 className="text-white">Tejdashkhati College , Pirojpur</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
-              <FaBookOpen className="text-3xl font-bold "></FaBookOpen>
-              <h1>Science</h1>
+            <div className=" font-bold flex items-center gap-x-5">
+              <FaBookOpen className="text-2xl font-bold text-yellow-600"></FaBookOpen>
+              <h1 className="text-white">Science</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
+            <div className=" font-bold flex items-center gap-x-5">
               <FcAlarmClock className="text-3xl font-bold "></FcAlarmClock>
-              <h1>2016-2018</h1>
+              <h1 className="text-white">2016-2018</h1>
             </div>
           </div>
         </div>
@@ -63,19 +63,19 @@ const Educational_Info = () => {
             <img src={ssc} alt="Shoes" />
           </figure>
           <div className="card-body bg-[#4D4944]">
-            <div className="card-title font-extrabold flex items-center gap-x-2">
-              <FaUniversity className="text-5xl font-bold "></FaUniversity>
-              <h1>Durgapur High School , Pirojpur</h1>
+            <div className="card-title text-[18px] font-extrabold flex items-center gap-x-5">
+            <FaUniversity className=" text-red-500 text-4xl font-bold"></FaUniversity>
+              <h1 className="text-white">Durgapur High School , Pirojpur</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
-              <FaBookOpen className="text-3xl font-bold "></FaBookOpen>
-              <h1>Science</h1>
+            <div className=" font-bold flex items-center gap-x-5">
+              <FaBookOpen className="text-2xl font-bold text-yellow-600"></FaBookOpen>
+              <h1 className="text-white">Science</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
+            <div className=" font-bold flex items-center gap-x-5">
               <FcAlarmClock className="text-3xl font-bold "></FcAlarmClock>
-              <h1>2014-2016</h1>
+              <h1 className="text-white">2014-2016</h1>
             </div>
           </div>
         </div>
@@ -84,19 +84,19 @@ const Educational_Info = () => {
             <img className="w-full" src={jsc} alt="Shoes" />
           </figure>
           <div className="card-body bg-[#4D4944]">
-            <div className="card-title font-extrabold flex items-center gap-x-2">
-              <FaUniversity className="text-5xl font-bold "></FaUniversity>
-              <h1>Durgapur High School , Pirojpur</h1>
+            <div className="card-title text-[18px] font-extrabold flex items-center gap-x-5">
+            <FaUniversity className=" text-red-500 text-4xl font-bold"></FaUniversity>
+              <h1 className="text-white">Durgapur  High  School , Pirojpur</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
-              <FaBookOpen className="text-3xl font-bold "></FaBookOpen>
-              <h1>Basic</h1>
+            <div className=" font-bold flex items-center gap-x-5">
+              <FaBookOpen className="text-2xl font-bold text-yellow-600"></FaBookOpen>
+              <h1 className="text-white">General</h1>
             </div>
 
-            <div className=" font-bold flex items-center gap-x-4">
+            <div className=" font-bold flex items-center gap-x-5">
               <FcAlarmClock className="text-3xl font-bold "></FcAlarmClock>
-              <h1>2013</h1>
+              <h1 className="text-white">2013</h1>
             </div>
           </div>
         </div>

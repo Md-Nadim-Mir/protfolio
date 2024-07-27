@@ -27,7 +27,7 @@ const Projects = () => {
           </figure>
           <div className="card-body bg-[#5E4D3E] text-white">
             <div className="card-title font-extrabold flex items-center gap-x-2">
-              <GiDividedSquare className="text-xl font-bold text-[#ff3232]" />
+              <GiDividedSquare className="text-xl font-bold text-[pink]" />
               <h1>Search Job</h1>
             </div>
 
@@ -35,7 +35,7 @@ const Projects = () => {
               to="https://serching-jobs.web.app/"
               className=" font-bold flex items-center gap-x-2"
             >
-              <TbWorld className="text-xl font-bold text-[#b1fb43]"></TbWorld>
+              <TbWorld className="text-xl font-bold text-[#b1fb43] "></TbWorld>
               <h1>Live Link</h1>
             </Link>
 
@@ -43,7 +43,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Searching-Job"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Client Site</h1>
             </Link>
 
@@ -51,7 +51,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Searching-Job"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Server Site</h1>
             </Link>
           </div>
@@ -63,7 +63,7 @@ const Projects = () => {
           </figure>
           <div className="card-body bg-[#5E4D3E] text-white">
             <div className="card-title font-extrabold flex items-center gap-x-2">
-              <GiDividedSquare className="text-xl font-bold text-[#ff3232]" />
+              <GiDividedSquare className="text-xl font-bold text-[pink]" />
               <h1>Heart Healt Center</h1>
             </div>
 
@@ -79,7 +79,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Heart-Health-Center"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Client Site</h1>
             </Link>
 
@@ -87,7 +87,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Heart-Health-Center"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Server Site</h1>
             </Link>
           </div>
@@ -99,7 +99,7 @@ const Projects = () => {
           </figure>
           <div className="card-body bg-[#5E4D3E] text-white">
             <div className="card-title font-extrabold flex items-center gap-x-2">
-              <GiDividedSquare className="text-xl font-bold text-[#ff3232]" />
+              <GiDividedSquare className="text-xl font-bold text-[pink]" />
               <h1>Spicy Food</h1>
             </div>
 
@@ -115,7 +115,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Spicy-Food"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Client Site</h1>
             </Link>
 
@@ -123,7 +123,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Spicy-Food"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Server Site</h1>
             </Link>
           </div>
@@ -135,7 +135,7 @@ const Projects = () => {
           </figure>
           <div className="card-body bg-[#5E4D3E] text-white">
             <div className="card-title font-extrabold flex items-center gap-x-2">
-              <GiDividedSquare className="text-xl font-bold text-[#ff3232]" />
+              <GiDividedSquare className="text-xl font-bold text-[pink]" />
               <h1>Event Management</h1>
             </div>
 
@@ -151,7 +151,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Event-Management"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Client Site</h1>
             </Link>
 
@@ -159,7 +159,7 @@ const Projects = () => {
               to="https://github.com/Md-Nadim-Mir/Event-Management"
               className=" font-bold flex items-center gap-x-2"
             >
-              <FaGithub className="text-xl font-bold text-[black]"></FaGithub>
+              <FaGithub className="text-xl font-bold text-red-500"></FaGithub>
               <h1>Server Site</h1>
             </Link>
           </div>

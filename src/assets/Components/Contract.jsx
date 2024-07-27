@@ -34,7 +34,7 @@ const Contract = () => {
           <div className="py-10 space-y-2">
             <div className="flex gap-x-5 items-center">
               <div>
-                <MdPerson className="text-3xl text-[#FF4500] animate-bounce"></MdPerson>
+                <MdPerson className="text-2xl text-[#FF4500] animate-bounce"></MdPerson>
               </div>
 
               <div>
@@ -45,7 +45,7 @@ const Contract = () => {
 
             <div className="flex gap-x-5 items-center">
               <div>
-                <ImLocation2 className="text-3xl text-[#FF4500] animate-bounce"></ImLocation2>
+                <ImLocation2 className="text-2xl text-[#FF4500] animate-bounce"></ImLocation2>
               </div>
 
               <div>
@@ -58,7 +58,7 @@ const Contract = () => {
 
             <div className="flex gap-x-5 items-center">
               <div>
-                <FaPhone className="text-3xl text-[#FF4500] animate-bounce"></FaPhone>
+                <FaPhone className="text-2xl text-[#FF4500] animate-bounce"></FaPhone>
               </div>
 
               <div>
@@ -71,7 +71,7 @@ const Contract = () => {
 
             <div className="flex gap-x-5 items-center ">
               <div>
-                <MdEmail className="text-3xl text-[#FF4500] animate-bounce"></MdEmail>
+                <MdEmail className="text-2xl text-[#FF4500] animate-bounce"></MdEmail>
               </div>
 
               <div>

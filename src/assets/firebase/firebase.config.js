@@ -10,9 +10,10 @@ const firebaseConfig = {
   projectId: "md-nadim-mir-protfolio",
   storageBucket: "md-nadim-mir-protfolio.appspot.com",
   messagingSenderId: "560963649896",
-  appId: "1:560963649896:web:10e99ce2b8ccf00bfc56dd",
+  appId: "1:560963649896:web:990c006e84c90171fc56dd"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
 export default app;
